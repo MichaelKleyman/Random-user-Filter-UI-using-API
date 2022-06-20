@@ -1,1 +1,2 @@
 # Random-user-Filter-UI-using-API
+This project invovles HTML CSS and Javascript, as well as an API from https://randomuser.me/api in order to work with an abundance of random users. Integrating this into the Javascript involved requesting and gathering this data and storing it into a JSON, and picking out specific key/value pairs i was interested in working with. I also didnt use regular JS functions, but used await async functionality in order to have asynchronous promise-based behavior. The UI here is rather simple and laid out with a hidden overflow. 
